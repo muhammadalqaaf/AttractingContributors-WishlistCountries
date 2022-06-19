@@ -37,3 +37,4 @@ Translated by: deepl.com
 10. Uzbekistan - Samarqand
 11. France - Paris
 12. US - New York
+13. Japan - Izu, Shizuoka
