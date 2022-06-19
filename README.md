@@ -35,5 +35,6 @@ ex : ) Russian
 9. Arabic
 10. Russian
 11. Russian
+12. Indonesian
 
 
