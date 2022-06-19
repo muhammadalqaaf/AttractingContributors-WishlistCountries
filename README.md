@@ -36,3 +36,4 @@ Translated by: deepl.com
 9. Australia - Melbourne
 10. Uzbekistan - Samarqand
 11. France - Paris
+12. US - New York
