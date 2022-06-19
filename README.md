@@ -30,4 +30,5 @@ Send me a Pull Request!
 7. Candy
 8. Curry and Rice
 9. Pork barbeque (Armenian Xorovac)
-10. Potato  
+10. Potato
+11. Indomie Goreng
